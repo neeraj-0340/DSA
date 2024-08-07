@@ -1,0 +1,17 @@
+Equal or not
+
+Step 1: Start
+
+Step 2: declare 2 variables a and b 
+
+Step 3: read 2 numbers from user and assign values into a and b
+
+Step 4: if a == b 
+
+	display numbers are equal
+
+	else
+
+	display numbers are not equal
+
+Step 5: Stop

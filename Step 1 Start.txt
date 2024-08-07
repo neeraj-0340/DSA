@@ -1,0 +1,17 @@
+area and perimeter
+
+Step 1: Start
+
+Step 2: Declare 4 variables b, h, area, perimeter
+
+Step 3: display sentence saying user to input breadth and height
+
+Step 4: read breadth and height from the user and assign it to b and h respectively
+
+Step 5: calculate area by equation area = b * h
+
+Step 6: calculate perimeter by equation perimeter = 2 * (b + h)
+
+Step 7: display: The calculated area and perimeter 
+
+Step 5: Stop

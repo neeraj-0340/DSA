@@ -1,0 +1,17 @@
+Leap year or not
+
+Step 1: Start
+
+Step 2: declare variable year
+
+Step 3: read a year from user and assign value into year
+
+Step 4: if remainder of year/4 equals zero
+
+	display: it is leap year 
+
+	else
+
+	display: it is not leap year
+
+Step 5: Stop

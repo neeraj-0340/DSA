@@ -1,0 +1,17 @@
+swap two numbers
+
+Step 1: Start
+
+Step 2: Initialise 3 variables a, b, temp
+
+Step 3: Read two numbers a and b from the user
+
+Step 4: Copy the value of variable a to variable temp
+
+Step 5: Copy the value of variable b to variable a
+
+Step 6: Copy the value of variable temp to variable b
+
+Step 7: Display the value of a and b
+
+Step 8: Stop

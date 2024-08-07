@@ -1,0 +1,14 @@
+Odd or Even
+
+Step 1: Start
+
+Step 2: Initialise variable n <-0
+
+Step 3: Read n from the user
+
+Step 4: if the remainder of n/2 equals 0
+       display number is even 
+	else 
+       display number is odd
+
+Step 5: Stop
